@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="mp4" group-title="SouthPark",South Park T01-EP09
+http://xd.azureedge.net/RedeCanais/RCServer01/videos/STHPRKT01EP09.mp4
+
+#EXTINF:0 tvg-id="mp4" group-title="SouthPark",South Park T01-EP10
+http://xd.azureedge.net/RedeCanais/RCServer01/videos/STHPRKT01EP010.mp4
+
+#EXTINF:0 tvg-id="mp4" group-title="SouthPark",South Park T01-EP11
+http://xd.azureedge.net/RedeCanais/RCServer01/videos/STHPRKT01EP11.mp4
+
+#EXTINF:0 tvg-id="mp4" group-title="SouthPark",South Park T01-EP12
+http://xd.azureedge.net/RedeCanais/RCServer01/videos/STHPRKT01EP12.mp4
+
+#EXTINF:0 tvg-id="mp4" group-title="SouthPark",South Park T01-EP13
+http://xd.azureedge.net/RedeCanais/RCServer01/videos/STHPRKT01EP13.mp4

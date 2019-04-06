@@ -1,0 +1,34 @@
+#EXTINF:-1,BAND FULL HD
+http://167.114.117.195:8880/live/larissa/larissa/1747.ts
+#EXTINF:-1,BAND NORDESTE FULL HD
+http://167.114.117.195:8880/live/larissa/larissa/3169.ts
+#EXTINF:-1,BAND HD
+http://167.114.117.195:8880/live/larissa/larissa/167.ts
+#EXTINF:-1,BAND HD(2)
+http://167.114.117.195:8880/live/larissa/larissa/166.ts
+#EXTINF:-1,BAND CAMPINAS HD
+http://167.114.117.195:8880/live/larissa/larissa/2077.ts
+#EXTINF:-1,BAND
+http://167.114.117.195:8880/live/larissa/larissa/372.ts
+#EXTINF:-1,BAND (2)
+http://srvunion.com:8880/1998/1998/8150
+#EXTINF:-1,Band SP [Alternativo]
+http://srvunion.com:8880/1998/1998/12882
+#EXTINF:-1,BAND HD (3)
+http://srvunion.com:8880/1998/1998/294
+#EXTINF:-1,Band Campinas HD [Alternativo]
+http://srvunion.com:8880/1998/1998/13092
+#EXTINF:-1,BAND SP FULLHD
+http://srvunion.com:8880/1998/1998/28177
+#EXTINF:-1,Band (3)
+http://painel.ebanonet.com.br:25461/ITALO/ITALO/4400
+#EXTINF:-1,Band HD
+http://painel.ebanonet.com.br:25461/ITALO/ITALO/6882
+#EXTINF:-1,Band SP
+http://painel.ebanonet.com.br:25461/ITALO/ITALO/18204
+#EXTINF:-1,BAND SP HD
+http://painel.ebanonet.com.br:25461/ITALO/ITALO/18203
+#EXTINF:-1,Band FHD
+http://painel.ebanonet.com.br:25461/ITALO/ITALO/11573
+#EXTINF:-1 tvg-id="Band" tvg-logo="" group-title="TV Aberta",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8?PEDROJUNIORTUTORIAIS

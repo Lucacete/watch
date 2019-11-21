@@ -1,9 +1,0 @@
-#EXTM3U
-
-#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",SÉRIES
-#EXTBG:https://studybreaks.com/wp-content/uploads/2018/02/4-1.jpg
-https://raw.githubusercontent.com/lcsgja2/lcsgja/master/m3u/seri.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",FILMES
-#EXTBG:https://studybreaks.com/wp-content/uploads/2018/02/4-1.jpg
-https://raw.githubusercontent.com/lcsgja2/lcsgja/master/m3u/film.m3u

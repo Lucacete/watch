@@ -1,0 +1,800 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8?TOPCINE
+#EXTINF:-1 group-title="CANAIS ABERTOS",Tv Cultura [OP??O 1]
+http://200.189.113.201:80/hls/tve.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV CULTURA [OP??O 2]
+http://200.189.113.201:80/hls/tve.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS",Tv Escola
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+#EXTINF:-1 group-title="ESPORTES",Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 group-title="CANAIS RELIGIOSOS",REDE GOSPEL [OP??O 1]
+http://media.igospel.com.br:1935/live/redegospel/livestream.m3u8
+#EXTINF:-1 group-title="CANAIS RELIGIOSOS",REDE GOSPEL [OP??O 2]
+http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
+#EXTINF:-1 group-title="CANAIS RELIGIOSOS",TV APARECIDA [OP??O 1]
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1 group-title="CANAIS RELIGIOSOS",TV VERDADE SC
+http://ocatv.mcgi.me:1935/public/247_br/live.m3u8
+#EXTINF:-1 group-title="CANAIS RELIGIOSOS",TV VERDADE
+http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
+#EXTINF:-1 group-title="VARIEDADES",MULTI TV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+#EXTINF:-1 group-title="MUSICA",Tv Faap sp
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 group-title="MUSICA",DJing Hot Hot Hot Music HD
+http://www.djing.com/tv/h-05.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",SBT RJ
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="CANAL ABERTO",SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="CANAL ABERTO",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="CANAL ABERTO",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="CANAL ABERTO",SBT - PE | CARUAR?
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="CANAL ABERTO",SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="CANAL ABERTO",SBT - MA | IMPERATRIZ
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="CANAL ABERTO",REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",TV VITORIA - RECORD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",TVE BA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="CANAL ABERTO",TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="CANAL ABERTO",CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="CANAL ABERTO",TV UP HD
+http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",TV UP HD
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="CANAL ABERTO",NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",REDE S?CULO 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",CAN??O NOVA HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?
+#EXTINF:-1 group-title="RELIGIOSO",TV NOVO TEMPO
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",TV VERDADE
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",TV MISS?O
+http://wse7.player.tv.br:1935/tvmissao/mp4:tvmissao/chunklist_w2064616456.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?
+#EXTINF:-1 group-title="RELIGIOSO",WEB TV LE?O DE JUD?
+http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",TV GIDE?ES HD
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8
+#EXTINF:-1 group-title="VARIEDADES",MTV CLIPES 1
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="VARIEDADES",FOX HITS
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES",MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:-1 group-title="VARIEDADES",TOP TV
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
+#EXTINF:-1 group-title="VARIEDADES",TV CLIMA
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="VARIEDADES",TV DI?RIO DO SERT?O - PARA?BA
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8
+#EXTINF:-1 group-title="VARIEDADES",TV DI?RIO DO SERT?O - PB
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:-1 group-title="VARIEDADES",TV SOL PB
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
+#EXTINF:-1 group-title="VARIEDADES",TV CINEC
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8
+#EXTINF:-1 group-title="VARIEDADES",TV CARUARU
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 group-title="VARIEDADES",TV MACEI?
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="VARIEDADES",TV FLORIPA
+http://11.fm5.com.br:1935/tvfloripa/tvfloripa/live.m3u8
+#EXTINF:-1 group-title="VARIEDADES",ALPHA CHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+#EXTINF:-1 group-title="VARIEDADES",RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARIOS",Stephen Hawking e as C?lulas-Tronco
+http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",O Sentido Da Vida Stephen Hawking
+http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",alem dos limites humanos - hipoxia
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",alem dos limites humanos -frio
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",alem dos limites humanos -tempo
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",Telesc?pio O universo revelado
+http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",Terceiro Reich: Ascens?o
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",Terceiro Reich: Queda
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Queda.mp4
+#EXTINF:-1 group-title="CANAIS PORTUGUAL",PT: TVI
+http://video-auth8.iol.pt:80/live_tvi/live_tvi/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS PORTUGUAL",PT: TVI 24
+http://video-auth8.iol.pt:80/live_tvi24/live_tvi24/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS PORTUGUAL",PT: TVI REALITY
+http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",ARG: CANAL 26 HD
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",ARG:CANAL PROVINCIAL SD
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",CHI: CDO SD
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",CHI: TV SENADO HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",COL: TELE ISLAS SD
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",MEX: CANAL 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",MEX: RTQ
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",MEX: TELEMAR
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",MEX: ONCE TV
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",MEX: MULTIMEDIOS MONTERREY 1
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",MEX: MULTIMEDIOS MONTERREY 2
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",PER: ANTARES TV SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",PER:  TV PERU SD
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",PER: OVACION SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",VEN: TV TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 group-title="CANAIS INTERNACIONAIS",VEN: PROMAR TV
+http://edge.wms28.lorini.net/promar/promar/chunklist_w590746241.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",REDE MINAS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",BLOOMBERG TV  - USA
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",BLOOMBERG TV  HD- USA
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",REDBULL TV - USA
+https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_3360.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",WGN AMERICA - USA
+https://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="NOT?CIAS",WGN NEWS CHICAGO - USA
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",SKY NEWS - USA
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",SKY LIFE TG24 - USA
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",TVW-2 HD
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",TV 538.
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",CANAL ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w776573390_b1300000_slesp.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",FRANCE 24 HD - EN
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",FRANCE 24 HD - FR
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",NHK WORLD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:-1 group-title="NOT?CIAS",ESP: EXTREMADURA
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b664000_DVR.m3u8
+#EXTINF:-1 group-title="ESPORTES",ALL SPORTS HD
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1192655349.m3u8
+#EXTINF:-1 group-title="ESPORTES",ESPORTE INTERATIVO BR SD
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+#EXTINF:-1 group-title="ESPORTES",ESPORTE INTERATIVO BR HD
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+#EXTINF:-1 group-title="ESPORTES",EI MAXX SD
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+#EXTINF:-1 group-title="ESPORTES",EI MAXX HD
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+#EXTINF:-1 group-title="ESPORTES",EI MAXX 2 HD
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",100AUTOMOTO TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",SKY SPORTS MAIN EVENT
+http://cdnv.cli.tn/iptv/ch914
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",SKY SPORTS MIX
+http://cdnv.cli.tn/iptv/ch931
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",SKY SPORTS PREMIER LEAGUE
+http://cdnv.cli.tn/iptv/ch937
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",BT SPORT 3
+http://cdnv.cli.tn/iptv/ch1830
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",ABU DABI SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",ABU DABI SPORT HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",ABU DABI SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",ABU DABI SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",ALL KASS SPORTS
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",ALL KASS SPORTS 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",ALL KASS SPORTS 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",ALL KASS SPORTS 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",ALL KASS SPORTS 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",ALL KASS SPORTS 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",OLYMPIC CHANNEL | FHD
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",VIASAT SPORTS | SD
+http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1 group-title="ESPORTES INTERNACIONAIS",MLB | HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="CANAIS INFANTIL",GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+#EXTINF:-1 group-title="FILMES E S?RIES",24 HORAS
+http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
+#EXTINF:-1 group-title="FILMES E S?RIES",TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 group-title="FILMES E S?RIES",CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 group-title="FILMES E S?RIES",CINE FILMES 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+#EXTINF:-1 group-title="FILMES E S?RIES",CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:-1 group-title="FILMES E S?RIES",GOSPEL TV - FILMES
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="FILMES E S?RIES",S? FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 group-title="FILMES E S?RIES",CAPITAL777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 114 -NARUTO SHIPPUDEN LEG
+https://goo.gl/YxgD4Q
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 115 -NARUTO SHIPPUDEN LEG
+https://goo.gl/ubMMXQ
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 117 -NARUTO SHIPPUDEN LEG
+https://goo.gl/nkek98
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 118 -NARUTO SHIPPUDEN LEG
+https://goo.gl/rLYWUw
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 119 -NARUTO SHIPPUDEN LEG
+https://goo.gl/FjJTHq
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 120 -NARUTO SHIPPUDEN LEG
+https://goo.gl/KqAVEK
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 122 -NARUTO SHIPPUDEN LEG
+https://goo.gl/Ykvw1Z
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 123 -NARUTO SHIPPUDEN LEG
+https://goo.gl/rhZhPr
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 124 -NARUTO SHIPPUDEN LEG
+https://goo.gl/B7E7ZS
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 125 -NARUTO SHIPPUDEN LEG
+https://goo.gl/kXAfbM
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 126 -NARUTO SHIPPUDEN LEG
+https://goo.gl/HN7Vu5
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 127 -NARUTO SHIPPUDEN LEG
+https://goo.gl/67zQ2q
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 128 -NARUTO SHIPPUDEN LEG
+https://goo.gl/GY6Acg
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 129 -NARUTO SHIPPUDEN LEG
+https://goo.gl/QbzPEK
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 130 -NARUTO SHIPPUDEN LEG
+https://goo.gl/yVYABV
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 131 -NARUTO SHIPPUDEN LEG
+https://goo.gl/q2aAXx
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 132 -NARUTO SHIPPUDEN LEG
+https://goo.gl/aT56wT
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 133 -NARUTO SHIPPUDEN LEG
+https://goo.gl/GKLTS5
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 134 -NARUTO SHIPPUDEN LEG
+https://goo.gl/xoTDQq
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 138 -NARUTO SHIPPUDEN LEG
+https://goo.gl/q91yyc
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 139 -NARUTO SHIPPUDEN LEG
+https://goo.gl/6vpQ4n
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 140 -NARUTO SHIPPUDEN LEG
+https://goo.gl/ddN3CG
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 141 -NARUTO SHIPPUDEN LEG
+https://goo.gl/DKg4R3
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 142 -NARUTO SHIPPUDEN LEG
+https://goo.gl/JCpgZ7
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 143 -NARUTO SHIPPUDEN LEG
+https://goo.gl/saZaAg
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 144 -NARUTO SHIPPUDEN LEG
+https://goo.gl/Ef9dbF
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 145 -NARUTO SHIPPUDEN LEG
+https://goo.gl/mCPFnH
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 146 -NARUTO SHIPPUDEN LEG
+https://goo.gl/P6AMFf
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 147 -NARUTO SHIPPUDEN LEG
+https://goo.gl/W6WvcY
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 148 -NARUTO SHIPPUDEN LEG
+https://goo.gl/oTxovT
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 150 -NARUTO SHIPPUDEN LEG
+https://goo.gl/bpsMc5
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 151 -NARUTO SHIPPUDEN LEG
+https://goo.gl/Mf917q
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 152 -NARUTO SHIPPUDEN LEG
+https://goo.gl/dDe2qR
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 154 -NARUTO SHIPPUDEN LEG
+https://goo.gl/Jj7wgm
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 155 -NARUTO SHIPPUDEN LEG
+https://goo.gl/bKBV2i
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 156 -NARUTO SHIPPUDEN LEG
+https://goo.gl/KCZN9G
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 157 -NARUTO SHIPPUDEN LEG
+https://goo.gl/U3URSQ
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 158 -NARUTO SHIPPUDEN LEG
+https://goo.gl/vbP9ee
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 159 -NARUTO SHIPPUDEN LEG
+https://goo.gl/N3pf8V
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 160 -NARUTO SHIPPUDEN LEG
+https://goo.gl/vKvE6g
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 161 -NARUTO SHIPPUDEN LEG
+https://goo.gl/BdCmCB
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 166 -NARUTO SHIPPUDEN LEG
+https://goo.gl/aDVSLp
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 167 -NARUTO SHIPPUDEN LEG
+https://goo.gl/k6CJri
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 168 -NARUTO SHIPPUDEN LEG
+https://goo.gl/NYM4u8
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 171 -NARUTO SHIPPUDEN LEG
+https://goo.gl/6Thm43
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 172 -NARUTO SHIPPUDEN LEG
+https://goo.gl/SpqHMp
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 173 -NARUTO SHIPPUDEN LEG
+https://goo.gl/mYh7gY
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 174 -NARUTO SHIPPUDEN LEG
+https://goo.gl/xhTa7U
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 176 -NARUTO SHIPPUDEN LEG
+https://goo.gl/gHBhP9
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 178 -NARUTO SHIPPUDEN LEG
+https://goo.gl/mfMSwG
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 179 -NARUTO SHIPPUDEN LEG
+https://goo.gl/P6WvyW
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 182 -NARUTO SHIPPUDEN LEG
+https://goo.gl/4W9GxB
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 183 -NARUTO SHIPPUDEN LEG
+https://goo.gl/U9cVFP
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 184 -NARUTO SHIPPUDEN LEG
+https://goo.gl/XPLn8k
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 185 -NARUTO SHIPPUDEN LEG
+https://goo.gl/To9XwS
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 186 -NARUTO SHIPPUDEN LEG
+https://goo.gl/cX3wfP
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 187 -NARUTO SHIPPUDEN LEG
+https://goo.gl/zJAF4G
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 188 -NARUTO SHIPPUDEN LEG
+https://goo.gl/j65Uc2
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 189 -NARUTO SHIPPUDEN LEG
+https://goo.gl/kGSUz8
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 190 -NARUTO SHIPPUDEN LEG
+https://goo.gl/7aE7Zj
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 191 -NARUTO SHIPPUDEN LEG
+https://goo.gl/eLTSqt
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 192 -NARUTO SHIPPUDEN LEG
+https://goo.gl/AuF37F
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 193 -NARUTO SHIPPUDEN LEG
+https://goo.gl/vgjpRG
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 194 -NARUTO SHIPPUDEN LEG
+https://goo.gl/JiiLgv
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 195 -NARUTO SHIPPUDEN LEG
+https://goo.gl/8nsM2R
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 197 -NARUTO SHIPPUDEN LEG
+https://goo.gl/oto6cx
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 198 -NARUTO SHIPPUDEN LEG
+https://goo.gl/sxxweV
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 199 -NARUTO SHIPPUDEN LEG
+https://goo.gl/LRjAcR
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 202 -NARUTO SHIPPUDEN LEG
+https://goo.gl/PhRKPG
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 203 -NARUTO SHIPPUDEN LEG
+https://goo.gl/vcLCJM
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 204 -NARUTO SHIPPUDEN LEG
+https://goo.gl/BLguh3
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 205 -NARUTO SHIPPUDEN LEG
+https://goo.gl/DNeX4f
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 206 -NARUTO SHIPPUDEN LEG
+https://goo.gl/5owz6H
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 207 -NARUTO SHIPPUDEN LEG
+https://goo.gl/ydfJnw
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 208 -NARUTO SHIPPUDEN LEG
+https://goo.gl/9XbrR9
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 209 -NARUTO SHIPPUDEN LEG
+https://goo.gl/S2WEhR
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 210 -NARUTO SHIPPUDEN LEG
+https://goo.gl/iv5sWo
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 211 -NARUTO SHIPPUDEN LEG
+https://goo.gl/q889ho
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 212 -NARUTO SHIPPUDEN LEG
+https://goo.gl/os6UPp
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 214 -NARUTO SHIPPUDEN LEG
+https://goo.gl/CjZavV
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 215 -NARUTO SHIPPUDEN LEG
+https://goo.gl/VCcvru
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 217 -NARUTO SHIPPUDEN LEG
+https://goo.gl/9KxcPT
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 218 -NARUTO SHIPPUDEN LEG
+https://goo.gl/Vhj8Hq
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 220 -NARUTO SHIPPUDEN LEG
+https://goo.gl/pGiQHq
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 221 -NARUTO SHIPPUDEN LEG
+https://goo.gl/LQvXuo
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 222 -NARUTO SHIPPUDEN LEG
+https://goo.gl/B15Aqq
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 223 -NARUTO SHIPPUDEN LEG
+https://goo.gl/a4E4wL
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 224 -NARUTO SHIPPUDEN LEG
+https://goo.gl/KwSLLq
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 225 -NARUTO SHIPPUDEN LEG
+https://goo.gl/5e3beP
+#EXTINF:-1 group-title="DESENHOS & S?RIES 24HRS",Ep 226 -NARUTO SHIPPUDEN LEG
+https://goo.gl/Sx1p59
+#EXTINF:-1 group-title="R?DIOS PARA?BA",CBN - CAMPINA GRANDE
+http://audio.cabobranco.tv.br:8000/cbncg
+#EXTINF:-1 group-title="R?DIOS PARA?BA",CORREIO 98 FM - CAMPINA GRANDE
+http://ice11.crossradio.com.br:8026/;*.mp3
+#EXTINF:-1 group-title="R?DIOS PARA?BA",RADIO 101 FM - CAMPINA GRANDE
+http://radioapp.agenciaellis.com.br/Cariri1160
+#EXTINF:-1 group-title="R?DIOS PARA?BA",ARAPUAN - JO?O PESSOA
+http://centova6.ciclanohost.com.br:9104/;stream.nsv
+#EXTINF:-1 group-title="R?DIOS PARA?BA",CORREIO - JO?O PESSOA
+http://ice11.crossradio.com.br:8022/;*.mp3
+#EXTINF:-1 group-title="R?DIOS PARA?BA",CORREIO 98 FM - JO?O PESSOA
+http://ice11.crossradio.com.br:8014/;*.mp3
+#EXTINF:-1 group-title="R?DIOS PARA?BA",MIX FM - JO?O PESSOA
+http://158.69.117.161:8016/live
+#EXTINF:-1 group-title="R?DIOS PARA?BA",CABO BRANCO FM - JO?O PESSOA
+http://audio.cabobranco.tv.br:8000/cbfm
+#EXTINF:-1 group-title="R?DIOS PARA?BA",CPAD - JO?O PESSOA
+http://server3.webradios.com.br:9404/;
+#EXTINF:-1 group-title="R?DIOS PARA?BA",104 FM SOUSA
+http://stream.7br.com.br:10018/;
+#EXTINF:-1 group-title="R?DIOS PARA?BA",LIDER 97 FM - SOUSA
+http://wz3.dnip.com.br/lider97/lider97.stream/playlist.m3u8
+#EXTINF:-1 group-title="R?DIOS PARA?BA",LIBERDADE FM - POMBAL
+http://centova14.ciclanohost.com.br:8180/;
+#EXTINF:-1 group-title="R?DIOS PARA?BA",ESTA??O JC - POMBAL
+http://streaming15.hstbr.net:8224/live
+#EXTINF:-1 group-title="R?DIOS PARA?BA",WEB R?DIO NO TOQUE DA BOLA - POMBAL
+http://server01.ouvir.radio.br:8060/stream
+#EXTINF:-1 group-title="R?DIOS PARA?BA",ARAPUAN - CAJAZEIRAS
+http://centova6.ciclanohost.com.br:9346/stream/1/
+#EXTINF:-1 group-title="R?DIOS PARA?BA",RADIO OESTE AM - CAJAZEIRAS
+http://streaming06.maxcast.com.br:8120/live
+#EXTINF:-1 group-title="R?DIOS PARA?BA",ARAPUAN - CAMPINA GRANDE
+http://centova6.ciclanohost.com.br:9518/;stream.nsv
+#EXTINF:-1 group-title="R?DIOS PARA?BA",ARAPUAN - PATOS
+http://centova6.ciclanohost.com.br:9312/;stream.nsv
+#EXTINF:-1 group-title="R?DIOS PARA?BA",ESPINHARAS AM - PATOS
+http://stm45.srvstm.com:26924/stream/1/
+#EXTINF:-1 group-title="SOUND!",ANOS 70
+http://192.99.150.31:8241/stream?
+#EXTINF:-1 group-title="SOUND!",ANOS 80
+http://192.99.150.31:8697/stream?
+#EXTINF:-1 group-title="SOUND!",ANOS 90
+http://192.99.150.31:8056/stream?
+#EXTINF:-1 group-title="SOUND!",ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:-1 group-title="SOUND!",AX?
+http://192.99.150.31:8305/stream?
+#EXTINF:-1 group-title="SOUND!",BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream?
+#EXTINF:-1 group-title="SOUND!",BREGA
+http://192.99.150.31:9007/stream?
+#EXTINF:-1 group-title="SOUND!",ELETR?NICA
+http://192.99.150.31:9095/stream?
+#EXTINF:-1 group-title="SOUND!",FESTA
+http://6d9a.webradio.upx.net.br:9070/stream?
+#EXTINF:-1 group-title="SOUND!",FORR?
+http://192.99.150.31:9019/stream?
+#EXTINF:-1 group-title="SOUND!",FUNK
+http://192.99.150.31:9089/stream?
+#EXTINF:-1 group-title="SOUND!",GOSPEL
+http://192.99.150.31:9101/stream?
+#EXTINF:-1 group-title="SOUND!",HIP HOP
+http://192.99.150.31:8721/stream?
+#EXTINF:-1 group-title="SOUND!",HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream?
+#EXTINF:-1 group-title="SOUND!",KIDS
+http://192.99.150.31:9431/stream?
+#EXTINF:-1 group-title="SOUND!",JAZZ
+http://192.99.150.31:8042/stream?
+#EXTINF:-1 group-title="SOUND!",LOUNGE
+http://6d9a.webradio.upx.net.br:9064/stream?
+#EXTINF:-1 group-title="SOUND!",METAL
+http://6d9a.webradio.upx.net.br:9898/stream?
+#EXTINF:-1 group-title="SOUND!",MPB
+http://192.99.150.31:8775/stream?
+#EXTINF:-1 group-title="SOUND!",M?SICA CL?SSICA
+http://6d9a.webradio.upx.net.br:9970/stream?
+#EXTINF:-1 group-title="SOUND!",NEW ROCK
+http://6d9a.webradio.upx.net.br:8028/stream?
+#EXTINF:-1 group-title="SOUND!",PAGODE
+http://6d9a.webradio.upx.net.br:9061/stream?
+#EXTINF:-1 group-title="SOUND!",POP RITS
+http://6d9a.webradio.upx.net.br:9046/stream?
+#EXTINF:-1 group-title="SOUND!",POP ROCK
+http://6d9a.webradio.upx.net.br:8016/stream?
+#EXTINF:-1 group-title="SOUND!",SERTANEJO UNIVERSIT?RIO
+http://192.99.150.31:9191/stream?
+#EXTINF:-1 group-title="SOUND!",TRILHAS SONORAS
+http://6d9a.webradio.upx.net.br:9896/stream?
+#EXTINF:-1 group-title="SOUND!",SERTANEJO RAIZES
+http://192.99.150.31:9155/stream
+#EXTINF:-1 group-title="SOUND!",BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 group-title="SOUND!",RAP NACIONAL
+http://192.99.150.31:8377/stream
+#EXTINF:-1 group-title="SOUND!",REGGAE
+http://192.99.150.31:8715/stream
+#EXTINF:-1 group-title="SOUND!",ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+#EXTINF:-1 group-title="SOUND!",ROCK CLASSICO
+http://192.99.150.31:9125/stream
+#EXTINF:-1 group-title="SOUND!",RODEIO
+http://192.99.150.31:9473/stream
+#EXTINF:-1 group-title="SOUND!",SERTANEJO
+http://192.99.150.31:9485/stream
+#EXTINF:-1 group-title="SOUND!",SMOOTH JAZZ
+http://192.99.150.31:8042/stream
+#EXTINF:-1 group-title="SOUND!",TECHNO
+http://192.99.150.31:8301/stream
+#EXTINF:-1 group-title="SOUND!",TECNO BREGA
+http://192.99.150.31:8989/stream
+#EXTINF:-1 group-title="SOUND!",STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+#EXTINF:-1 group-title="SOUND!",METROPOLETANA FM AO VIVO
+http://ice.paineldj3.com.br:8006/live
+#EXTINF:-1 group-title="SOUND!",METROPOLETANA FM - SERTANEJO
+http://m.paineldj6.com.br:8504/stream
+#EXTINF:-1 group-title="SOUND!",METROPOLETANA FM - POP
+http://paineldj4.com.br:8510/stream
+#EXTINF:-1 group-title="SOUND!",METROPOLETANA FM - FUNK
+http://paineldj4.com.br:8306/stream
+#EXTINF:-1 group-title="SOUND!",METROPOLETANA FM - LIGHT
+http://paineldj4.com.br:8594/stream
+#EXTINF:-1 group-title="SOUND!",R?DIO ATL?NTIDA FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SOUND!",R?DIO ELDORADO FM
+http://noasrv.caster.fm:10136/stream
+#EXTINF:-1 group-title="SOUND!",R?DIO FARROUPILHA FM/AM
+http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SOUND!",R?DIO HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream
+#EXTINF:-1 group-title="SOUND!",R?DIO ITAPEMA FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SOUND!",R?DIO MIX FM
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:-1 group-title="SOUND!",R?DIO PRINCESA FM
+http://noasrv.caster.fm:10124/stream
+#EXTINF:-1 group-title="SOUND!",R?DIO ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+#EXTINF:-1 group-title="SOUND!",R?DIO STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+#EXTINF:-1 group-title="SOUND!",R?DIO TRANSAMERICA FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:-1 group-title="SOUND!",BAND VALE FM
+http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+#EXTINF:-1 group-title="SOUND!",BAND NATIVA FM
+http://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
+#EXTINF:-1 group-title="SOUND!",BAND AM-FM SP*
+http://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+#EXTINF:-1 group-title="SOUND!",BAND FM SP*
+http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
+#EXTINF:-1 group-title="SOUND!",BAND NEWS SP*
+http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+#EXTINF:-1 group-title="SOUND!",MIX 106.3 SP
+http://mixmp3.crossradio.com.br:1102/live
+#EXTINF:-1 group-title="SOUND!",GOSPEL FM 89
+http://209.126.127.123:8885/live?1522866827534
+#EXTINF:-1 group-title="SOUND!",NATIVA SP*
+http://cast.hoost.com.br:8554/stream
+#EXTINF:-1 group-title="ESPORTES",All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
+#EXTINF:-1 group-title="ESPORTES",MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="ESPORTES",Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="INFANTIL",GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+#EXTINF:-1 group-title="INFANTIL",LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w133088733.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",SBT PE SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",SBT CARUARU
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",RECORD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",CULTURA SC
+http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8?
+#EXTINF:-1 group-title="CANAIS SMART TV",CULTURA PR
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",CULTURA GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",CULTURA PA
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",TV FUTURA PR
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?
+#EXTINF:-1 group-title="CANAIS SMART TV",TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",REDE TV RJ
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u
+#EXTINF:-1 group-title="CANAIS SMART TV",AGROBRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",TVE BA HD 720p
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",TV ? PARAN?
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="CANAIS SMART TV",TV CIDADE VERDE
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?AndreOid
+#EXTINF:-1 group-title="CANAIS SMART TV",TVCADM
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?AndreOid
+#EXTINF:-1 group-title="CANAIS SMART TV",TV MACEIO
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?
+#EXTINF:-1 group-title="Noticias",Catve HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?
+#EXTINF:-1 group-title="Noticias",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 group-title="Noticias",DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8?AndreOid
+#EXTINF:-1 group-title="Noticias",Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 group-title="Noticias",CBS News (Opt-1)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="Noticias",CBN
+http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8
+#EXTINF:-1 group-title="Noticias",CBN NEWS
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
+#EXTINF:-1 group-title="Noticias",Difusora
+https://srv02.brasilstream.com.br/live/difusoraamaovivo/difusoraamaovivo/mono.m3u8?token=470910016
+#EXTINF:-1 group-title="Noticias",Est?dio 96.5 FM Rio de Janeiro
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",FM O DIA 100.5 Rio de Janeiro
+https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b865536.m3u8
+#EXTINF:-1 group-title="Noticias",D2 FM 95.3
+http://stm02.virtualcast.com.br:1935/8008/8008/chunklist_w321459847.m3u8
+#EXTINF:-1 group-title="Religiosos",TV Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",Tv Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?AndreOid
+#EXTINF:-1 group-title="RELIGIOSO",Rede Gospel
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8?AndreOid
+#EXTINF:-1 group-title="RELIGIOSO",TV Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",Rede Brasil De Comunicac?o PE HD
+http://rbc.directradios.com:1935/rbc/rbc_720p/Playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",Rede Brasil De Comunicac?o PE SD
+http://rbc.directradios.com:1935/rbc/rbc_360p/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",Can??o Nova HD 720p
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1 group-title="DOCUMENTARIOS",Grandes golpes
+http://archive.org/download/GrandesGolpesHistoryChannelHD/Grandes%20Golpes%20%5bHistory%20Channel%20HD%5d.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",Filhos De Galileu
+http://archive.org/download/FilhosDeGalileuDocumentrio/Filhos%20de%20Galileu%20-%20Document%c3%a1rio.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",Stephen Hawking e as C?lulas-Tronco
+http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",O Sentido Da Vida Stephen Hawking
+http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",A HIST?RIA DA TERRA
+http://archive.org/download/AHISTORIADATERRA-Dublado/A%20HIST%C3%93RIA%20DA%20TERRA%20-%20Dublado.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",alem dos limites humanos - hipoxia
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",alem dos limites humanos -frio
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",alem dos limites humanos -tempo
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",Telesc?pio O universo revelado
+http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",Terceiro Reich: Ascens?o
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4
+#EXTINF:-1 group-title="DOCUMENTARIOS",Terceiro Reich: Queda
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Queda.mp4
+#EXTINF:-1 group-title="MUSICAS",Music Top (ARG)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="MUSICAS",HOT MUSIC
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1 group-title="MUSICAS",TV CLIMA
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8?AndreOid
+#EXTINF:-1 group-title="MUSICAS",RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,MUSICA:La Mega Mundial (EU)
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 ,MUSICA:Melody Channel (EU)
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 ,MUSICA:Music Top (Argentina)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 ,MUSICA:Portal Foxmix (Chile)
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 ,MUSICA:DJIng Ibiza | HD
+http://www.djing.com/tv/ibiza.m3u8
+
+---------------Japan---------------------------------------------------------
+#EXTINF:-1 group-title="JAPAN",Japanet Channel DX (Jap?o)
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 group-title="JAPAN",NTV News24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 group-title="Filmes e S?ries",S? FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 group-title="FILMES E S?RIES",CAPITAL777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+#EXTINF:-1 group-title="Filmes e S?ries",CINE 24H
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 group-title="Filmes e S?ries",Gospel Movies Television 2
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="CLASSICOS",Esses Tr?s S?o um N?mero
+http://archive.org/download/tres_patetas/OsTr%C3%AAsPatetas002.mp4
+#EXTINF:-1 group-title="CLASSICOS",As Filhas Do Fogo (1978)
+http://archive.org/download/AsFilhasDoFogo1978/As%20Filhas%20do%20Fogo%201978.mp4
+#EXTINF:-1 group-title="CLASSICOS",Mil Novecentos e Oitenta e Quatro
+http://archive.org/download/Filme1984GeorgeOrwellDubladoConhecimentoEhPoderByN1ngGg3n/Filme%201984%20George%20Orwell%20-%20Dublado%20-%20ConhecimentoEhPoder%20-%20By%20N1ngGg3n%20.mp4
+#EXTINF:-1 ,A Escolha
+https://lh3.googleusercontent.com/sF_OqY-qyj1cdTMhl8wqiEFtFPIV1Gex1CG703yb4WlmNoPD78FYI5JFlTxg7S6WMooxWJ3pzQ=m18
+#EXTINF:-1 ,As Confissoes
+https://lh3.googleusercontent.com/Ss0acUV44bdlYwIcKzn4z8Pkkt26_pyQBfvG1NRke4vuCjyqGIEmpMVsuZoqXQ3xiWZGVcCqehuWtg=m18
+#EXTINF:-1 ,Carol
+https://lh3.googleusercontent.com/4Mp0MnqKDDt-ZLa8JXfhm_qJmdJYruQinPQJ37jOWVqsc0G5EsfRGYHsi-BFtt-56jDyfEI3vA=m18
+#EXTINF:-1 ,CHICAGO
+https://videos3.earthcam.com/fecnetwork/13220.flv/chunklist_w547281597.m3u8
+#EXTINF:-1 ,Duplex
+https://lh6.googleusercontent.com/ajyvb3icBTtiv2Hfyj-aEOzNImtSjF39lOvJ6m0FkDaBDtR4nJPEg28tYLgqg_YwQdbBvn1xL1h8oXckVTWIT2hwN26IHpBvcLfHgfNMMkE53QzyFH2xsQLZQ1vuCSp63PGMBQ=m18
+#EXTINF:-1 ,Final Fantasy
+https://lh3.googleusercontent.com/4LBIcNUlkjDN-fxn37Y_PN01uRmE3eogsT6kGjoFqx_tPA7MbM8iNQ4oo2KLhQiZgHQ3e6wHeg=m18
+#EXTINF:-1 ,Foi Apenas um Sonho
+https://lh3.googleusercontent.com/oSkdxPHrgW80lhSvlXzEYCnX3gJwOIMxKecfgCZWp5hCWgCVScMTEboLf7rmqF13vKL6btfrwZc=m18
+#EXTINF:-1 ,Invoca??o do Mal 2
+https://lh3.googleusercontent.com/XTQw5h1Gxrb4-C1pKOgl5u0cFhAq6vEvnIHjo7Y55v5b5gCZT1PZsci1_biu9cSu3Fnk6AqrShOpcjrl=m22
+#EXTINF:-1 ,NEW ORLEANS
+https://videos3.earthcam.com/fecnetwork/4282.flv/chunklist_w1264728811.m3u8
+#EXTINF:-1 ,NEW ORLEANS KARAOKE CAM
+https://videos3.earthcam.com/fecnetwork/4281.flv/chunklist_w1662357726.m3u8
+#EXTINF:-1 ,O Diabo no banco dos R?us
+https://lh3.googleusercontent.com/-9cfqPA218vf6KPvKLqpEXHkbDRGCM98UK7ugP2BepH4GL9TUUi4a-z_W_B0IajBqSGAr3oBceStj5Uq=m18
+#EXTINF:-1 ,O Melhor de mim
+https://lh3.googleusercontent.com/_fnbOdAPZkrUV2uguCwpXyQDA0tqMnl9bnCeNCKdiYIuIiHcYM802g1NXiJKFTW5ZKmIXGEc9HY=m18
+#EXTINF:-1 ,O que eu fiz para merecer isso
+https://lh3.googleusercontent.com/vkKmZdNBOXvWS1WGb8riX5UTeZJX1V5VzG1XsScD7CGGJqB45fsVue5SBn_Odi_dcDFpGXVUBsQ=m18
+#EXTINF:-1 ,SAHARA
+http://archive.org/download/luaSaara/luaSaara.MP4
+#EXTINF:-1 ,Star Wars: O Imp?rio Contra-Ataca
+https://lh3.googleusercontent.com/vNV8zKsQqPVby2so0MV5wcUfX_ycdv3xwUANJ8nv4frd-a2GnpDbsgQo21k-qvrNpSSq0zifYpT11e5zag=m22
+#EXTINF:-1 ,Ultima Musica
+https://lh4.googleusercontent.com/teSFGBtV5H8DUG8Mj8zoLMBS549aJeB2qV_DiKKadNWfvL0luzeZSVH0lY8zKfL8z7SZ-Pa-9G5lJN9MSdvMbZvNPD9-mXaahWeyOlAk_WlNzYBrFSoZtk2k_hDCm-qZfHfjHw=m18
+#EXTINF:-1 ,WALL STREET
+https://videos3.earthcam.com/fecnetwork/chargingbull.flv/chunklist_w1384346436.m3u8
+#EXTINF:-1 group-title="Adultos +18",Miami TV
+http://usaserver.miamitvchannel.com:1935/miamitv/smil:miamitv/playlist.m3u8?
+#EXTINF:-1 group-title="Adultos +18",Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:-1 group-title="Adultos +18",Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8

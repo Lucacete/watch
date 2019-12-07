@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT SD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT RJ HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS",SBT RJ SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b176000_sleng.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS",REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 group-title="TVCATV",BIS
+http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1 group-title="EVANGELICO",Tv Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Musicas",NOSSA TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+#EXTINF:-1 group-title="TV Musicas",DJ Hits
+http://www.djing.com/tv/04.m3u8
+#EXTINF:-1 group-title="TV Musicas",Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="TV Musicas",Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1 group-title="TV Musicas",ONE 0
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="TV Musicas",ONE 1 HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="TV Musicas",ONE 4 HD
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Sound!",Kids
+http://192.99.150.31:9431/stream
+#EXTINF:-1 group-title="Sound!",MPB
+http://192.99.150.31:8775/stream
+#EXTINF:-1 group-title="Sound!",Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 group-title="Sound!",Forró
+http://192.99.150.31:9019/stream
+#EXTINF:-1 group-title="Sound!",Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1 group-title="Sound!",Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1 group-title="Sound!",Sertanejo
+http://192.99.150.31:9485/stream
+#EXTINF:-1 group-title="Sound!",Funk
+http://192.99.150.31:9089/stream
+#EXTINF:-1 group-title="Sound!",Rock Clássico
+http://192.99.150.31:9125/stream
+#EXTINF:-1 group-title="Sound!",Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1 group-title="Sound!",Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1 group-title="Sound!",Anos 70
+http://192.99.150.31:8241/stream
+#EXTINF:-1 group-title="Sound!",Anos 80
+http://192.99.150.31:8697/stream
+#EXTINF:-1 group-title="Sound!",Anos 90
+http://192.99.150.31:8056/stream
+#EXTINF:-1 group-title="Sound!",Românticas
+http://192.99.150.31:8962/stream
+#EXTINF:-1 group-title="Sound!",Rap Nacional
+http://192.99.150.31:8377/stream
+#EXTINF:-1 group-title="Sound!",Eletrônica
+http://192.99.150.31:9095/stream
+#EXTINF:-1 group-title="Sound!",Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1 group-title="Sound!",Gospel
+http://192.99.150.31:9101/stream
+#EXTINF:-1 group-title="Sound!",Hip Hop
+http://192.99.150.31:8721/stream
+#EXTINF:-1 group-title="Sound!",Jazz
+http://192.99.150.31:8042/stream
+#EXTINF:-1 group-title="Sound!",Axé
+http://192.99.150.31:8305/stream
+#EXTINF:-1 group-title="Sound!",Brega
+http://192.99.150.31:9007/stream
+#EXTINF:-1 group-title="Sound!",Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1 group-title="Sound!",New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1 group-title="Sound!",Reggae
+http://192.99.150.31:8715/stream
+#EXTINF:-1 group-title="Sound!",Sertanejo Universitário
+http://192.99.150.31:9191/stream
+#EXTINF:-1 group-title="Sound!",Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1 group-title="Sound!",Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:-1 group-title="Sound!",Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+#EXTINF:-1 group-title="Radios",FM O DIA TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:-1 group-title="Radios",BIGMIX TV
+https://5c64355d4b57c.streamlock.net:1936/bigmix/bigmix/chunklist_w1815015955.m3u8
+#EXTINF:-1 group-title="Radios",BIGMIX
+https://servidor39-1.brlogic.com:8130/live
+#EXTINF:-1 group-title="Radios",FM O DIA
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
+#EXTINF:-1 group-title="Radios",Estação SAT FM
+http://s32.maxcast.com.br:8022/live
+#EXTINF:-1 group-title="Radios",Mix FM
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:-1 group-title="Radios",Coca Cola FM
+https://str2b.openstream.co/1084
+#EXTINF:-1 group-title="Radios",Vibe FM
+http://servidor36.brlogic.com:8180/live
+#EXTINF:-1 group-title="Radios",CIDADE DO ACO
+http://ice1.crossradio.com.br:8184/live.mp3
+#EXTINF:-1 group-title="Radios",Vagalume Vibe
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
+#EXTINF:-1 group-title="Radios",Vagalume Funk
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
+#EXTINF:-1 group-title="Radios",Vagalume Sertanejo Hits
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+#EXTINF:-1 group-title="Radios",Vagalume Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:-1 group-title="Radios",BH FM
+https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:-1 ,SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 ,TV VITORIA RECORD ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:-1 ,REDE MINAS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 ,TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:-1 ,ALL SPORTS TV
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 ,HOT MUSIC
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1 ,REDE SECULO 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+#EXTINF:-1 ,SPORT
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 ,SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 ,DW
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 ,FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 ,RJ - COPACABANA
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL",RedeTV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 group-title="BRASIL",Tv Gideos
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8
+#EXTINF:-1 group-title="BRASIL",AGROO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+#EXTINF:-1 group-title="Radios",Metropolitania FM
+http://ice.paineldj3.com.br:8006/live
+#EXTINF:-1 group-title="Radios",Mix FM
+http://tuneinmix.crossradio.com.br:8008/stream/1/
+#EXTINF:-1 group-title="Radios",FM Dia
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Radios",Tropical FM
+http://stm19.srvstm.com:20972/stream/1/
+#EXTINF:-1 group-title="Radios",Rádio Gaúcha
+http://542747t.ls.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/gaucha_rbs.sdp/playlist.m3u8?wowzasessionid=1253813908
+#EXTINF:-1 group-title="Radios",Transamérica
+http://transamerica.crossradio.com.br:9100/live.aac
+#EXTINF:-1 group-title="Radios",Rádio Bandeirantes
+http://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL",DD NEWS INDIA
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="INTERNACIONAL",FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Mexico",DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 group-title="Mexico",JUDICIAL
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1 ,NUESTRA VISION Mich
+http://189.204.137.189:8888/canal6mobiles.m3u8
+#EXTINF:-1 group-title="Mexico",ONCETV IPN
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="INFORMAÇÃO",watsapp 885594993292
+http://65.media.tumblr.com/54484abf9cd510388ade91ca575403b5/tumblr_inline_n2fkj168Ih1qcuepz.jpg
+#EXTINF:-1 group-title="PARCEIROS DA LISTA",Vl Droid
+http://bit.ly/TopCineTv
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8?TOPCINE
+#EXTINF:-1 group-title="CANAIS ABERTOS",Tv Cultura [OPÇÃO 1]
+http://200.189.113.201:80/hls/tve.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS",TV CULTURA [OPÇÃO 2]
+http://200.189.113.201:80/hls/tve.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS",Tv Escola
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+#EXTINF:-1 group-title="ESPORTES",Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 group-title="CANAIS RELIGIOSOS",REDE GOSPEL [OPÇÃO 1]
+http://media.igospel.com.br:1935/live/redegospel/livestream.m3u8
+#EXTINF:-1 group-title="CANAIS RELIGIOSOS",REDE GOSPEL [OPÇÃO 2]
+http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
+#EXTINF:-1 group-title="CANAIS RELIGIOSOS",TV APARECIDA [OPÇÃO 1]
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1 group-title="CANAIS RELIGIOSOS",TV VERDADE SC
+http://ocatv.mcgi.me:1935/public/247_br/live.m3u8
+#EXTINF:-1 group-title="CANAIS RELIGIOSOS",TV VERDADE
+http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
+#EXTINF:-1 group-title="VARIEDADES",MULTI TV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+#EXTINF:-1 group-title="MUSICA",Tv Faap sp
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 group-title="MUSICA",DJing Hot Hot Hot Music HD
+http://www.djing.com/tv/h-05.m3u8
